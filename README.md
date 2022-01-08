@@ -1,0 +1,1 @@
+# Exercício sobre tratamento de erros e exceções personalizadas
